@@ -1,18 +1,19 @@
 # Stock Report v2
 
+### class object
 | Name | Type | Desciption
 |---|---|---
 | startDate | String | เวลาเริ่มต้นของคำนวณสต็อก
 | endDate | String | เวลาสุดท้ายของคำนวณสต็อก
-| group | [{object}](README.md#group) | กลุ่มข้อมูลสต็อก
+| groups | [[group]](README.md#group) | กลุ่มข้อมูลสต็อก
 
 ### group
 | Name | Type | Desciption
 |---|---|---
 | name | String | ชื่อกลุ่มสต็อก
-| items | [{object}](README.md#items) | ข้อมูลรายการของที่สต็อก
+| items | [[item]](README.md#items) | ข้อมูลรายการของที่สต็อก
 
-### items
+### item
 | Name | Type | Desciption
 |---|---|---
 | name | String | ชื่อรายการสต็อก

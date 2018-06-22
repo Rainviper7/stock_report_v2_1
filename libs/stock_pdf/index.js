@@ -35,15 +35,6 @@ module.exports = function (options, callback) {
     //-------หน้ารายงาน
     var docDefinition = {
         content: drawDocDefinition(data),
-        // pageBreakBefore: function (currentNode, followingNodesOnPage, nodesOnNextPage, previousNodesOnPage) {
-        //     return followingNodesOnPage.length == 250;
-        // },
-        // pageBreakBefore: function (currentNode, followingNodesOnPage, nodesOnNextPage, previousNodesOnPage) {
-        //     if (previousNodesOnPage.length == 150 || previousNodesOnPage.length == 200) {
-        //         return true
-        //     }
-
-        // },
         pageSize: 'A4',
         pageOrientation: 'portrait',
         // [left, top, right, bottom] or [horizontal, vertical] or just a number for equal margins
@@ -85,20 +76,14 @@ module.exports = function (options, callback) {
             res.push({
                 style: [C.TABLE_STYLES.TABLE_EXAMPLE, C.FONT_STYLES.NORMAL],
                 table: {
-                    heights: C.FONT_STYLES.NORMAL + 3,
+                    heights: C.TABLE_STYLES.TABLE_HIGHT + 3,
                     widths: [150, 40, 40, 30, 30, 30, 45, 40],
                     body: drawDetail(groubName.items, index)
                 },
                 layout: C.TABLE_STYLES.LAYOUT.THIN_GRAY
             }),
                 res.push({ text: NewLine(2) })
-            // res.push(addNewPage())
         })
-
-        // var res2 = _.reduce(res, function (acc, val, index) {
-        //     acc.push(val)
-        //     return acc
-        // }, [])
 
         return res
     }

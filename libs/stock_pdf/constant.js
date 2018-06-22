@@ -21,6 +21,7 @@ var TABLE_STYLES = {
     TABLE_EXAMPLE: {
         margin: [0, 5, 0, 15]
     },
+    TABLE_HIGHT: FONT_STYLES.NORMAL["fontSize"],
     LAYOUT: {
         THIN_GRAY: {
             hLineWidth: function (i, node) {

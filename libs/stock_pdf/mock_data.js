@@ -1,7 +1,7 @@
 exports.data = {
     startDate: "2018-06-17T08:00:00Z",
     endDate: "2018-06-18T08:00:00Z",
-    group: [
+    groups: [
         {
             name: "soft drink",
             items: [
@@ -659,6 +659,556 @@ exports.data = {
                     withdraw: "3",
                     adjust: "4",
                     begin: "5"
+                },
+                {
+                    name: "ไก่",
+                    balance: "12",
+                    unit: "แท่ง",
+                    add: "2",
+                    used: "3",
+                    withdraw: "4",
+                    adjust: "5",
+                    begin: "6"
+                },
+                {
+                    name: "เนื้อวัว",
+                    balance: "32",
+                    unit: "ชิ้น",
+                    add: "1",
+                    used: "2",
+                    withdraw: "3",
+                    adjust: "4",
+                    begin: "5"
+                },
+                {
+                    name: "ไก่",
+                    balance: "12",
+                    unit: "แท่ง",
+                    add: "2",
+                    used: "3",
+                    withdraw: "4",
+                    adjust: "5",
+                    begin: "6"
+                },
+                {
+                    name: "เนื้อวัว",
+                    balance: "32",
+                    unit: "ชิ้น",
+                    add: "1",
+                    used: "2",
+                    withdraw: "3",
+                    adjust: "4",
+                    begin: "5"
+                },
+                {
+                    name: "ไก่",
+                    balance: "12",
+                    unit: "แท่ง",
+                    add: "2",
+                    used: "3",
+                    withdraw: "4",
+                    adjust: "5",
+                    begin: "6"
+                },
+                {
+                    name: "เนื้อวัว",
+                    balance: "32",
+                    unit: "ชิ้น",
+                    add: "1",
+                    used: "2",
+                    withdraw: "3",
+                    adjust: "4",
+                    begin: "5"
+                },
+                {
+                    name: "ไก่",
+                    balance: "12",
+                    unit: "แท่ง",
+                    add: "2",
+                    used: "3",
+                    withdraw: "4",
+                    adjust: "5",
+                    begin: "6"
+                },
+                {
+                    name: "เนื้อวัว",
+                    balance: "32",
+                    unit: "ชิ้น",
+                    add: "1",
+                    used: "2",
+                    withdraw: "3",
+                    adjust: "4",
+                    begin: "5"
+                },
+                {
+                    name: "ไก่",
+                    balance: "12",
+                    unit: "แท่ง",
+                    add: "2",
+                    used: "3",
+                    withdraw: "4",
+                    adjust: "5",
+                    begin: "6"
+                },
+                {
+                    name: "เนื้อวัว",
+                    balance: "32",
+                    unit: "ชิ้น",
+                    add: "1",
+                    used: "2",
+                    withdraw: "3",
+                    adjust: "4",
+                    begin: "5"
+                },
+                {
+                    name: "ไก่",
+                    balance: "12",
+                    unit: "แท่ง",
+                    add: "2",
+                    used: "3",
+                    withdraw: "4",
+                    adjust: "5",
+                    begin: "6"
+                },
+                {
+                    name: "เนื้อวัว",
+                    balance: "32",
+                    unit: "ชิ้น",
+                    add: "1",
+                    used: "2",
+                    withdraw: "3",
+                    adjust: "4",
+                    begin: "5"
+                },
+                {
+                    name: "ไก่",
+                    balance: "12",
+                    unit: "แท่ง",
+                    add: "2",
+                    used: "3",
+                    withdraw: "4",
+                    adjust: "5",
+                    begin: "6"
+                },
+                {
+                    name: "เนื้อวัว",
+                    balance: "32",
+                    unit: "ชิ้น",
+                    add: "1",
+                    used: "2",
+                    withdraw: "3",
+                    adjust: "4",
+                    begin: "5"
+                },
+                {
+                    name: "ไก่",
+                    balance: "12",
+                    unit: "แท่ง",
+                    add: "2",
+                    used: "3",
+                    withdraw: "4",
+                    adjust: "5",
+                    begin: "6"
+                },
+                {
+                    name: "เนื้อวัว",
+                    balance: "32",
+                    unit: "ชิ้น",
+                    add: "1",
+                    used: "2",
+                    withdraw: "3",
+                    adjust: "4",
+                    begin: "5"
+                },
+                {
+                    name: "ไก่",
+                    balance: "12",
+                    unit: "แท่ง",
+                    add: "2",
+                    used: "3",
+                    withdraw: "4",
+                    adjust: "5",
+                    begin: "6"
+                },
+                {
+                    name: "เนื้อวัว",
+                    balance: "32",
+                    unit: "ชิ้น",
+                    add: "1",
+                    used: "2",
+                    withdraw: "3",
+                    adjust: "4",
+                    begin: "5"
+                },
+                {
+                    name: "ไก่",
+                    balance: "12",
+                    unit: "แท่ง",
+                    add: "2",
+                    used: "3",
+                    withdraw: "4",
+                    adjust: "5",
+                    begin: "6"
+                },
+                {
+                    name: "เนื้อวัว",
+                    balance: "32",
+                    unit: "ชิ้น",
+                    add: "1",
+                    used: "2",
+                    withdraw: "3",
+                    adjust: "4",
+                    begin: "5"
+                },
+                {
+                    name: "ไก่",
+                    balance: "12",
+                    unit: "แท่ง",
+                    add: "2",
+                    used: "3",
+                    withdraw: "4",
+                    adjust: "5",
+                    begin: "6"
+                },
+                {
+                    name: "เนื้อวัว",
+                    balance: "32",
+                    unit: "ชิ้น",
+                    add: "1",
+                    used: "2",
+                    withdraw: "3",
+                    adjust: "4",
+                    begin: "5"
+                },
+                {
+                    name: "ไก่",
+                    balance: "12",
+                    unit: "แท่ง",
+                    add: "2",
+                    used: "3",
+                    withdraw: "4",
+                    adjust: "5",
+                    begin: "6"
+                },
+                {
+                    name: "เนื้อวัว",
+                    balance: "32",
+                    unit: "ชิ้น",
+                    add: "1",
+                    used: "2",
+                    withdraw: "3",
+                    adjust: "4",
+                    begin: "5"
+                },
+                {
+                    name: "ไก่",
+                    balance: "12",
+                    unit: "แท่ง",
+                    add: "2",
+                    used: "3",
+                    withdraw: "4",
+                    adjust: "5",
+                    begin: "6"
+                },
+                {
+                    name: "เนื้อวัว",
+                    balance: "32",
+                    unit: "ชิ้น",
+                    add: "1",
+                    used: "2",
+                    withdraw: "3",
+                    adjust: "4",
+                    begin: "5"
+                },
+                {
+                    name: "ไก่",
+                    balance: "12",
+                    unit: "แท่ง",
+                    add: "2",
+                    used: "3",
+                    withdraw: "4",
+                    adjust: "5",
+                    begin: "6"
+                },
+                {
+                    name: "เนื้อวัว",
+                    balance: "32",
+                    unit: "ชิ้น",
+                    add: "1",
+                    used: "2",
+                    withdraw: "3",
+                    adjust: "4",
+                    begin: "5"
+                },
+                {
+                    name: "ไก่",
+                    balance: "12",
+                    unit: "แท่ง",
+                    add: "2",
+                    used: "3",
+                    withdraw: "4",
+                    adjust: "5",
+                    begin: "6"
+                },
+                {
+                    name: "เนื้อวัว",
+                    balance: "32",
+                    unit: "ชิ้น",
+                    add: "1",
+                    used: "2",
+                    withdraw: "3",
+                    adjust: "4",
+                    begin: "5"
+                },
+                {
+                    name: "ไก่",
+                    balance: "12",
+                    unit: "แท่ง",
+                    add: "2",
+                    used: "3",
+                    withdraw: "4",
+                    adjust: "5",
+                    begin: "6"
+                },
+                {
+                    name: "เนื้อวัว",
+                    balance: "32",
+                    unit: "ชิ้น",
+                    add: "1",
+                    used: "2",
+                    withdraw: "3",
+                    adjust: "4",
+                    begin: "5"
+                },
+                {
+                    name: "ไก่",
+                    balance: "12",
+                    unit: "แท่ง",
+                    add: "2",
+                    used: "3",
+                    withdraw: "4",
+                    adjust: "5",
+                    begin: "6"
+                },
+                {
+                    name: "เนื้อวัว",
+                    balance: "32",
+                    unit: "ชิ้น",
+                    add: "1",
+                    used: "2",
+                    withdraw: "3",
+                    adjust: "4",
+                    begin: "5"
+                },
+                {
+                    name: "ไก่",
+                    balance: "12",
+                    unit: "แท่ง",
+                    add: "2",
+                    used: "3",
+                    withdraw: "4",
+                    adjust: "5",
+                    begin: "6"
+                },
+                {
+                    name: "เนื้อวัว",
+                    balance: "32",
+                    unit: "ชิ้น",
+                    add: "1",
+                    used: "2",
+                    withdraw: "3",
+                    adjust: "4",
+                    begin: "5"
+                },
+                {
+                    name: "ไก่",
+                    balance: "12",
+                    unit: "แท่ง",
+                    add: "2",
+                    used: "3",
+                    withdraw: "4",
+                    adjust: "5",
+                    begin: "6"
+                },
+                {
+                    name: "เนื้อวัว",
+                    balance: "32",
+                    unit: "ชิ้น",
+                    add: "1",
+                    used: "2",
+                    withdraw: "3",
+                    adjust: "4",
+                    begin: "5"
+                },
+                {
+                    name: "ไก่",
+                    balance: "12",
+                    unit: "แท่ง",
+                    add: "2",
+                    used: "3",
+                    withdraw: "4",
+                    adjust: "5",
+                    begin: "6"
+                },
+                {
+                    name: "เนื้อวัว",
+                    balance: "32",
+                    unit: "ชิ้น",
+                    add: "1",
+                    used: "2",
+                    withdraw: "3",
+                    adjust: "4",
+                    begin: "5"
+                },
+                {
+                    name: "ไก่",
+                    balance: "12",
+                    unit: "แท่ง",
+                    add: "2",
+                    used: "3",
+                    withdraw: "4",
+                    adjust: "5",
+                    begin: "6"
+                },
+                {
+                    name: "เนื้อวัว",
+                    balance: "32",
+                    unit: "ชิ้น",
+                    add: "1",
+                    used: "2",
+                    withdraw: "3",
+                    adjust: "4",
+                    begin: "5"
+                },
+                {
+                    name: "ไก่",
+                    balance: "12",
+                    unit: "แท่ง",
+                    add: "2",
+                    used: "3",
+                    withdraw: "4",
+                    adjust: "5",
+                    begin: "6"
+                },
+                {
+                    name: "เนื้อวัว",
+                    balance: "32",
+                    unit: "ชิ้น",
+                    add: "1",
+                    used: "2",
+                    withdraw: "3",
+                    adjust: "4",
+                    begin: "5"
+                },
+                {
+                    name: "ไก่",
+                    balance: "12",
+                    unit: "แท่ง",
+                    add: "2",
+                    used: "3",
+                    withdraw: "4",
+                    adjust: "5",
+                    begin: "6"
+                },
+                {
+                    name: "เนื้อวัว",
+                    balance: "32",
+                    unit: "ชิ้น",
+                    add: "1",
+                    used: "2",
+                    withdraw: "3",
+                    adjust: "4",
+                    begin: "5"
+                },
+                {
+                    name: "ไก่",
+                    balance: "12",
+                    unit: "แท่ง",
+                    add: "2",
+                    used: "3",
+                    withdraw: "4",
+                    adjust: "5",
+                    begin: "6"
+                },
+                {
+                    name: "เนื้อวัว",
+                    balance: "32",
+                    unit: "ชิ้น",
+                    add: "1",
+                    used: "2",
+                    withdraw: "3",
+                    adjust: "4",
+                    begin: "5"
+                },
+                {
+                    name: "ไก่",
+                    balance: "12",
+                    unit: "แท่ง",
+                    add: "2",
+                    used: "3",
+                    withdraw: "4",
+                    adjust: "5",
+                    begin: "6"
+                },
+                {
+                    name: "เนื้อวัว",
+                    balance: "32",
+                    unit: "ชิ้น",
+                    add: "1",
+                    used: "2",
+                    withdraw: "3",
+                    adjust: "4",
+                    begin: "5"
+                },
+                {
+                    name: "ไก่",
+                    balance: "12",
+                    unit: "แท่ง",
+                    add: "2",
+                    used: "3",
+                    withdraw: "4",
+                    adjust: "5",
+                    begin: "6"
+                },
+                {
+                    name: "เนื้อวัว",
+                    balance: "32",
+                    unit: "ชิ้น",
+                    add: "1",
+                    used: "2",
+                    withdraw: "3",
+                    adjust: "4",
+                    begin: "5"
+                },
+                {
+                    name: "ไก่",
+                    balance: "12",
+                    unit: "แท่ง",
+                    add: "2",
+                    used: "3",
+                    withdraw: "4",
+                    adjust: "5",
+                    begin: "6"
+                },
+                {
+                    name: "เนื้อวัว",
+                    balance: "32",
+                    unit: "ชิ้น",
+                    add: "1",
+                    used: "2",
+                    withdraw: "3",
+                    adjust: "4",
+                    begin: "5"
+                },
+                {
+                    name: "ไก่",
+                    balance: "12",
+                    unit: "แท่ง",
+                    add: "2",
+                    used: "3",
+                    withdraw: "4",
+                    adjust: "5",
+                    begin: "6"
                 }
             ]
         }
